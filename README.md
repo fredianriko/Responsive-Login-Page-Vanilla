@@ -7,4 +7,4 @@ Login page
 
 
 Register Page
-![](img/exmple2.JPG)
+![](img/example2.JPG)
